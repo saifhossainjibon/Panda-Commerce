@@ -1,0 +1,18 @@
+.panda-bg-info{
+    background-color: #fceae8;
+    margin-top: 50px;
+}
+.categories img{
+    width: 100px;
+}
+.panda-btn-buy-now{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #ff4b92 100%);
+    color: white;
+    border-radius: 8px;
+    padding: 9px 25px;
+    border: none;
+}
+.dollar-color{
+    color: #ff4b92 ;
+    font-weight: bold;
+}
